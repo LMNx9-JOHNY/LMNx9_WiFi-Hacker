@@ -9,5 +9,6 @@
 ("LMN_&_RKB+Z/OxeG4JXWn0j7g4i8yflT6RJkd ='m'= RIDOY")
 ("LMN_&_RKB+Q/J8WVeJ2TRY7Ik3dTZVU0Pr6 ='m'= RAFAN")
 ("LMN_&_RKB+Z/VXJmo9WwhCqHJ/2jktL3kv2j ='m'= SAGOR")
-("LMN_&_RKB+F/2Cis0E1u9q6XS25dHFre+Ftd2 ='p'= RONY")
+("LMN_&_RKB+F/2Cis0E1u9q6XS25dHFre+fgtX ='p'= RONY")
 ("LMN_&_RKB+A/i4hy7ZzTsn9Lb3z5l/e9k7fy4v ='p'= LUTFOR")
+("LMN_&_RKB+F/2Cis0E1u9q6XS25dHFre+Ftd2 ='17-25'= REX")
